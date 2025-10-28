@@ -50,7 +50,7 @@ Traivimiya Smart Switch is a comprehensive IoT home automation solution built on
 | Component | Specification | Quantity | Purpose |
 |-----------|--------------|----------|---------|
 | **ESP32 DevKit** | 240MHz dual-core, WiFi/BT | 1 | Main controller |
-| **5V Relay Module** | 5-channel, optocoupled | 1 | AC/DC switching |
+| **5V Relay Module** | 4-channel, optocoupled | 1 | AC/DC switching |
 | **DHT22 Sensor** | Temperature/Humidity | 1 | Environmental sensing |
 | **OLED Display** | SSD1306, 128x64, I2C | 1 | Status display |
 | **Passive Buzzer** | 5V | 1 | Audio alerts |
