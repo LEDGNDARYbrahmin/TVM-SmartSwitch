@@ -61,19 +61,19 @@ Traivimiya Smart Switch is a comprehensive IoT home automation solution built on
 
 GPIO Pin Mapping
 ┌──────────────────────────────────────────────┐
-│ FUNCTION │ GPIO PIN │ NOTES │
+│ FUNCTION    │ GPIO PIN │     NOTES           │
 ├──────────────────────────────────────────────┤
-│ Relay 1 │ 16 │ Channel 1 │
-│ Relay 2 │ 17 │ Channel 2 │
-│ Relay 3 │ 18 │ Channel 3 │
-│ Relay 4 │ 19 │ Channel 4 │
-│ Relay 5 │ 5 │ Channel 5 │
-│ DHT22 Sensor │ 15 │ Data line │
-│ OLED SDA │ 22 │ I2C Data │
-│ OLED SCL │ 21 │ I2C Clock │
-│ Buzzer │ 23 │ PWM capable │
-│ Status LED │ 13 │ Built-in LED │
-│ Config Button │ 0 │ BOOT button │
+│ Relay 1       │ 16 │ Channel 1               │
+│ Relay 2       │ 17 │ Channel 2               │
+│ Relay 3       │ 18 │ Channel 3               │
+│ Relay 4       │ 19 │ Channel 4               │
+│ Relay 5       │ 5  │ Channel 5               │
+│ DHT22 Sensor  │ 15 │ Data line               │
+│ OLED SDA      │ 22 │ I2C Data                │
+│ OLED SCL      │ 21 │ I2C Clock               │
+│ Buzzer        │ 23 │ PWM capable             │
+│ Status LED    │ 13 │ Built-in LED            │
+│ Config Button │ 0  │ BOOT button             │
 └──────────────────────────────────────────────┘
 
 
