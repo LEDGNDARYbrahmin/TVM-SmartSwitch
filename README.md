@@ -207,6 +207,10 @@ Adafruit GFX Library
 - OTA updates
 - Temperature monitoring
 
+
+## 📝 Note
+-Android and IOS Application will be Available Soon..
+
 ---
 
 ## 📄 License
