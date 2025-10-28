@@ -193,13 +193,7 @@ Adafruit GFX Library
 
 ---
 
-### Development Guidelines
-- Follow existing code style
-- Add comments for complex logic
-- Test all features before PR
-- Update documentation
 
----
 
 ## 📝 Changelog
 
@@ -214,6 +208,7 @@ Adafruit GFX Library
 
 
 ---
+
 
 ## 📄 License
 
