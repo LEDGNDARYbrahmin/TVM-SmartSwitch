@@ -115,6 +115,11 @@ Adafruit GFX Library
      - OLED display (Network screen)
      - Router DHCP list
 
+
+## 📝 Note
+-Android and IOS Application will be Available Soon..
+
+
 ### Voice Control Setup
 
 **Alexa:**
@@ -207,9 +212,6 @@ Adafruit GFX Library
 - OTA updates
 - Temperature monitoring
 
-
-## 📝 Note
--Android and IOS Application will be Available Soon..
 
 ---
 
