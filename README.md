@@ -222,7 +222,7 @@ This project is licensed under the Apache 2.0 License - see LICENSE file for det
 
 **Traivimiya**
 - GitHub: [@LEDGNDARYbrahmin](https://github.com/LEDGNDARYbrahmin)
-- Project Link: [TVM-Smart_Switch](https://github.com/LEDGNDARYbrahmin/TVM-Smart_Switch)
+- Project Link: [TVM-Smart_Switch](https://github.com/LEDGNDARYbrahmin/TVM-SmartSwitch)
 
 ---
 
