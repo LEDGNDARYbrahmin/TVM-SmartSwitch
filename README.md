@@ -59,23 +59,6 @@ Traivimiya Smart Switch is a comprehensive IoT home automation solution built on
 | **Power Supply** | 5V 2A minimum | 1 | System power |
 | **Resistors** | 10kΩ pull-up | 2-3 | Button/sensor |
 
-GPIO Pin Mapping
-┌──────────────────────────────────────────────┐
-│ FUNCTION    │ GPIO PIN │     NOTES           │
-├──────────────────────────────────────────────┤
-│ Relay 1       │ 16 │ Channel 1               │
-│ Relay 2       │ 17 │ Channel 2               │
-│ Relay 3       │ 18 │ Channel 3               │
-│ Relay 4       │ 19 │ Channel 4               │
-│ Relay 5       │ 5  │ Channel 5               │
-│ DHT22 Sensor  │ 15 │ Data line               │
-│ OLED SDA      │ 22 │ I2C Data                │
-│ OLED SCL      │ 21 │ I2C Clock               │
-│ Buzzer        │ 23 │ PWM capable             │
-│ Status LED    │ 13 │ Built-in LED            │
-│ Config Button │ 0  │ BOOT button             │
-└──────────────────────────────────────────────┘
-
 
 ### Key Libraries
 
@@ -204,16 +187,6 @@ Adafruit GFX Library
 | Sensor Read Interval   | 5 seconds    |
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. **Fork the repository**
-2. **Create feature branch**: `git checkout -b feature/AmazingFeature`
-3. **Commit changes**: `git commit -m 'Add AmazingFeature'`
-4. **Push to branch**: `git push origin feature/AmazingFeature`
-5. **Open Pull Request**
 
 ### Development Guidelines
 - Follow existing code style
