@@ -212,3 +212,43 @@ Adafruit GFX Library
 ## 📄 License
 
 This project is licensed under the MIT License - see LICENSE file for details.
+
+
+
+---
+
+## 👨‍💻 Author
+
+**Traivimiya**
+- GitHub: [@LEDGNDARYbrahmin](https://github.com/LEDGNDARYbrahmin)
+- Project Link: [TVM-Smart_Switch](https://github.com/LEDGNDARYbrahmin/TVM-Smart_Switch)
+
+---
+
+## 🙏 Acknowledgments
+
+- [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async web server library
+- [fauxmoESP](https://github.com/vintlabs/fauxmoESP) - Alexa integration
+- [ArduinoJson](https://arduinojson.org/) - JSON parsing
+- [Adafruit](https://www.adafruit.com/) - OLED and sensor libraries
+- ESP32 Community - Invaluable support and resources
+
+---
+
+## 🌐 Additional Resources
+
+- [ESP32 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
+- [Arduino ESP32 Documentation](https://docs.espressif.com/projects/arduino-esp32/en/latest/)
+- [Home Assistant Integration Guide](https://www.home-assistant.io/integrations/esp32/)
+- [ESPHome Alternative](https://esphome.io/)
+
+---
+
+<p align="center">
+  Made with ❤️ for the IoT community
+</p>
+
+<p align="center">
+  ⭐ Star this repo if you find it helpful!
+</p>
+
