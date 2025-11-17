@@ -4,41 +4,41 @@ Overview
 
 Traivimiya Smart Switch is a comprehensive IoT home automation solution built on the ESP32 platform. It provides intelligent control of up to 5 AC/DC appliances with advanced features including environmental monitoring, scheduling, temperature-based automation, and seamless integration with Alexa and Google Home.
 
-## ✨ Features
+## Features
 
-### 🔌 Core Functionality
+### Core Functionality
 - **5-Channel Relay Control**: Independent control of up to 5 appliances (16A capacity per relay)
 - **Web-Based Interface**: Intuitive web dashboard for device management
 - **RESTful API**: Complete API for third-party integrations
 - **WiFi Configuration**: Captive portal for easy WiFi setup
 - **State Persistence**: Automatic saving/restoring of switch states across power cycles
 
-### 📊 Environmental Monitoring
+### Environmental Monitoring
 - **Temperature & Humidity Sensing**: Real-time DHT22 sensor readings
 - **OLED Display**: 3 rotating screens showing:
   - Environment data (Temperature, Humidity)
   - Device status (Switch states)
   - Network information (IP, WiFi status)
 
-### ⏰ Automation & Scheduling
+### Automation & Scheduling
 - **Time Schedules**: Up to 10 programmable schedules per device
 - **Alarms**: 3 configurable alarms with buzzer notifications
 - **Temperature-Based Control**: Automatic relay control based on temperature thresholds
 - **Countdown Timers**: Per-switch countdown timers for auto-off functionality
 
-### 🏡 Smart Home Integration
+### Smart Home Integration
 - **Alexa Integration**: Full Amazon Alexa support via fauxmoESP
 - **Google Home Compatible**: Works with Google Assistant
 - **UDP Discovery**: Automatic device discovery on local network
 - **Voice Control**: Control all switches via voice commands
 
-### 🔒 Security Features
+### Security Features
 - **HTTP Authentication**: User/password protection for all endpoints
 - **Configurable Credentials**: Change admin password via API
 - **WiFi Credential Management**: Secure storage in NVS
 - **Client Activity Tracking**: Monitor connected clients
 
-### 🔧 Advanced Features
+### Advanced Features
 - **OTA Updates**: Wireless firmware updates via web interface
 - **NTP Time Sync**: Automatic time synchronization (every 24 hours)
 - **Watchdog Timer**: 30-second watchdog for system stability
@@ -88,7 +88,7 @@ Adafruit GFX Library
 
 ---
 
-## 📱 Usage Guide
+## Usage Guide
 
 ### Initial Setup
 
@@ -116,7 +116,7 @@ Adafruit GFX Library
      - Router DHCP list
 
 
-## 📝 Note
+## Note
 -Android and IOS Application will be Available Soon..
 
 
@@ -176,7 +176,7 @@ Adafruit GFX Library
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 | Metric                 | Value        |
 |------------------------|--------------|
@@ -210,7 +210,7 @@ Adafruit GFX Library
 ---
 
 
-## 📄 License
+## License
 
 This project is licensed under the Apache 2.0 License - see LICENSE file for details.
 
@@ -218,7 +218,7 @@ This project is licensed under the Apache 2.0 License - see LICENSE file for det
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Traivimiya**
 - GitHub: [@LEDGNDARYbrahmin](https://github.com/LEDGNDARYbrahmin)
@@ -226,7 +226,7 @@ This project is licensed under the Apache 2.0 License - see LICENSE file for det
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async web server library
 - [fauxmoESP](https://github.com/vintlabs/fauxmoESP) - Alexa integration
@@ -244,10 +244,6 @@ This project is licensed under the Apache 2.0 License - see LICENSE file for det
 - [ESPHome Alternative](https://esphome.io/)
 
 ---
-
-<p align="center">
-  Made with ❤️ for the IoT community
-</p>
 
 <p align="center">
   ⭐ Star this repo if you find it helpful!
